@@ -8,3 +8,6 @@ Code
 بزنید و بعد دکمه 
 Download Zip
 رو بزنید
+
+
+فایل ها توی پوشه downloads هست
